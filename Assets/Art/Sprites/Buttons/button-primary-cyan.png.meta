@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 4f7a9d6e585632542aa47c5f9426782b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7337737356048608656
+    second: button-primary-cyan_0
+  - first:
+      213: 1888229548194621888
+    second: button-primary-cyan_1
+  - first:
+      213: -7278974398962231296
+    second: button-primary-cyan_2
+  - first:
+      213: 3740977972283465055
+    second: button-primary-cyan_3
+  - first:
+      213: 5638769750797441123
+    second: button-primary-cyan_4
+  - first:
+      213: 2903148550232457184
+    second: button-primary-cyan_5
+  - first:
+      213: 3209868873704599608
+    second: button-primary-cyan_6
+  - first:
+      213: -3906472018339426583
+    second: button-primary-cyan_7
+  - first:
+      213: 7848664939948403583
+    second: button-primary-cyan_8
+  - first:
+      213: 2938413339777847662
+    second: button-primary-cyan_9
+  - first:
+      213: -1985046977906469837
+    second: button-primary-cyan_10
+  - first:
+      213: -3323663090987154753
+    second: button-primary-cyan_11
+  - first:
+      213: 5974513296947404527
+    second: button-primary-cyan_12
+  - first:
+      213: -8836970446845039913
+    second: button-primary-cyan_13
+  - first:
+      213: 5072488448671461685
+    second: button-primary-cyan_14
+  - first:
+      213: -8855173107909057032
+    second: button-primary-cyan_15
+  - first:
+      213: 8706803115295799909
+    second: button-primary-cyan_16
+  - first:
+      213: 2401479133196160132
+    second: button-primary-cyan_17
+  - first:
+      213: -3127754271445790632
+    second: button-primary-cyan_18
+  - first:
+      213: 477392908553424300
+    second: button-primary-cyan_19
+  - first:
+      213: 5746776813323016495
+    second: button-primary-cyan_20
+  - first:
+      213: -4938302096610208820
+    second: button-primary-cyan_21
+  - first:
+      213: -1489230650120022932
+    second: button-primary-cyan_22
+  - first:
+      213: 410123514979575843
+    second: button-primary-cyan_23
+  - first:
+      213: -7259107702808128452
+    second: button-primary-cyan_24
+  - first:
+      213: -2619982726309419354
+    second: button-primary-cyan_25
+  - first:
+      213: 6702642469605298355
+    second: button-primary-cyan_26
+  - first:
+      213: -1991608876337590811
+    second: button-primary-cyan_27
+  - first:
+      213: 343398689870372744
+    second: button-primary-cyan_28
+  - first:
+      213: 8903333590971286818
+    second: button-primary-cyan_29
+  - first:
+      213: 2243416933603818347
+    second: button-primary-cyan_30
+  - first:
+      213: 4701026975650454798
+    second: button-primary-cyan_31
+  - first:
+      213: -9115926068777757416
+    second: button-primary-cyan_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 175, y: 200, z: 175, w: 225}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button-primary-cyan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 2172
+        height: 693
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072db9d60ce1b2a90800000000000000
+      internalID: -7337737356048608656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 681
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9698215c6543a10800000000000000
+      internalID: 1888229548194621888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 682
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00891bc8953ebfa90800000000000000
+      internalID: -7278974398962231296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 679
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d548e25af9ae330800000000000000
+      internalID: 3740977972283465055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 673
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368df7e763fe04e40800000000000000
+      internalID: 5638769750797441123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 685
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efbbc2993e0a4820800000000000000
+      internalID: 2903148550232457184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 677
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830feb8ebbebb8c20800000000000000
+      internalID: 3209868873704599608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 678
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee00ed856c69c9c0800000000000000
+      internalID: -3906472018339426583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_8
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 676
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7befaacd2f0cec60800000000000000
+      internalID: 7848664939948403583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_9
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 689
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e615ab83d5757c820800000000000000
+      internalID: 2938413339777847662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_10
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 673
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3341c637a42b374e0800000000000000
+      internalID: -1985046977906469837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_11
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 677
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb242ac370affd1d0800000000000000
+      internalID: -3323663090987154753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 673
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feed562703cb9e250800000000000000
+      internalID: 5974513296947404527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 677
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da2d29e236cc5580800000000000000
+      internalID: -8836970446845039913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 657
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531b55e6e59156640800000000000000
+      internalID: 5072488448671461685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_15
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 675
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f52d7e99fa1c1580800000000000000
+      internalID: -8855173107909057032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_16
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 677
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a78708d47c4d870800000000000000
+      internalID: 8706803115295799909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_17
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 675
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c8bad4c84c35120800000000000000
+      internalID: 2401479133196160132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_18
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 675
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85053c9cf0cf794d0800000000000000
+      internalID: -3127754271445790632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_19
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 677
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0e9c225a00a600800000000000000
+      internalID: 477392908553424300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_20
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 677
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d1916017a0cf40800000000000000
+      internalID: 5746776813323016495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_21
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 667
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35bf94860a77bb0800000000000000
+      internalID: -4938302096610208820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 657
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64d8fe2d90355be0800000000000000
+      internalID: -1489230650120022932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_23
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 665
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3286468f92d01b500800000000000000
+      internalID: 410123514979575843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_24
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 659
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d1d33108724b90800000000000000
+      internalID: -7259107702808128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_25
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 659
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6eaa87793f3abd0800000000000000
+      internalID: -2619982726309419354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_26
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 660
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0554160d1940d50800000000000000
+      internalID: 6702642469605298355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 642
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed026a67426c54e0800000000000000
+      internalID: -1991608876337590811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_28
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 94
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fde0ef94ff3c400800000000000000
+      internalID: 343398689870372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_29
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 101
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22585a6aabefe8b70800000000000000
+      internalID: 8903333590971286818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_30
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 112
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b3d82a0d7322f10800000000000000
+      internalID: 2243416933603818347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_31
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 93
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9c2390276d3140800000000000000
+      internalID: 4701026975650454798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-primary-cyan_32
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 96
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81557c7e989bd7180800000000000000
+      internalID: -9115926068777757416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      button-primary-cyan_0: -7337737356048608656
+      button-primary-cyan_1: 1888229548194621888
+      button-primary-cyan_10: -1985046977906469837
+      button-primary-cyan_11: -3323663090987154753
+      button-primary-cyan_12: 5974513296947404527
+      button-primary-cyan_13: -8836970446845039913
+      button-primary-cyan_14: 5072488448671461685
+      button-primary-cyan_15: -8855173107909057032
+      button-primary-cyan_16: 8706803115295799909
+      button-primary-cyan_17: 2401479133196160132
+      button-primary-cyan_18: -3127754271445790632
+      button-primary-cyan_19: 477392908553424300
+      button-primary-cyan_2: -7278974398962231296
+      button-primary-cyan_20: 5746776813323016495
+      button-primary-cyan_21: -4938302096610208820
+      button-primary-cyan_22: -1489230650120022932
+      button-primary-cyan_23: 410123514979575843
+      button-primary-cyan_24: -7259107702808128452
+      button-primary-cyan_25: -2619982726309419354
+      button-primary-cyan_26: 6702642469605298355
+      button-primary-cyan_27: -1991608876337590811
+      button-primary-cyan_28: 343398689870372744
+      button-primary-cyan_29: 8903333590971286818
+      button-primary-cyan_3: 3740977972283465055
+      button-primary-cyan_30: 2243416933603818347
+      button-primary-cyan_31: 4701026975650454798
+      button-primary-cyan_32: -9115926068777757416
+      button-primary-cyan_4: 5638769750797441123
+      button-primary-cyan_5: 2903148550232457184
+      button-primary-cyan_6: 3209868873704599608
+      button-primary-cyan_7: -3906472018339426583
+      button-primary-cyan_8: 7848664939948403583
+      button-primary-cyan_9: 2938413339777847662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

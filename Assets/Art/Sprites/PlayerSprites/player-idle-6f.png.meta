@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 2b58beaa0cb830e4cb3120c9c8d0d249
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6545455963982636761
+    second: player-idle-6f_0
+  - first:
+      213: 1858538745534894168
+    second: player-idle-6f_1
+  - first:
+      213: 5200515014801535900
+    second: player-idle-6f_2
+  - first:
+      213: 4419800999361480432
+    second: player-idle-6f_3
+  - first:
+      213: -8844333230361032956
+    second: player-idle-6f_4
+  - first:
+      213: -6684703491292369360
+    second: player-idle-6f_5
+  - first:
+      213: -8051241895940754772
+    second: player-idle-6f_6
+  - first:
+      213: -3734291038166174581
+    second: player-idle-6f_7
+  - first:
+      213: -2055771528037297511
+    second: player-idle-6f_8
+  - first:
+      213: -5963544080433730311
+    second: player-idle-6f_9
+  - first:
+      213: 2541014695328230780
+    second: player-idle-6f_10
+  - first:
+      213: -4401144495624150533
+    second: player-idle-6f_11
+  - first:
+      213: 5604234185008663924
+    second: player-idle-6f_12
+  - first:
+      213: -1388160872006701347
+    second: player-idle-6f_13
+  - first:
+      213: -423879789065414440
+    second: player-idle-6f_14
+  - first:
+      213: -6460948623381759664
+    second: player-idle-6f_15
+  - first:
+      213: -5483314968300673625
+    second: player-idle-6f_16
+  - first:
+      213: 7732640085495959351
+    second: player-idle-6f_17
+  - first:
+      213: 3397771460843616065
+    second: player-idle-6f_18
+  - first:
+      213: -5024075999224830375
+    second: player-idle-6f_19
+  - first:
+      213: 3177930108100716120
+    second: player-idle-6f_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-idle-6f_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 360
+        height: 545
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6a52a158126da50800000000000000
+      internalID: 6545455963982636761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle-6f_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 81
+        width: 355
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85058e0642bdac910800000000000000
+      internalID: 1858538745534894168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle-6f_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 81
+        width: 353
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b45a3ad0fb2840800000000000000
+      internalID: 5200515014801535900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle-6f_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 80
+        width: 355
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f68bd08799465d30800000000000000
+      internalID: 4419800999361480432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle-6f_4
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 77
+        width: 353
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c52949cd924580800000000000000
+      internalID: -8844333230361032956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-idle-6f_5
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 77
+        width: 358
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e64bc77992b33a0800000000000000
+      internalID: -6684703491292369360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 03809ba1cf1d47b47ad74eca82c5f48b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":362.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      player-idle-6f_0: 6545455963982636761
+      player-idle-6f_1: 1858538745534894168
+      player-idle-6f_2: 5200515014801535900
+      player-idle-6f_3: 4419800999361480432
+      player-idle-6f_4: -8844333230361032956
+      player-idle-6f_5: -6684703491292369360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

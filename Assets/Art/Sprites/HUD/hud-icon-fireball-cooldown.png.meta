@@ -1,0 +1,3198 @@
+fileFormatVersion: 2
+guid: 9c6b7f0928a3c1b47bb874c272d62b48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1887655463446068152
+    second: hud-icon-fireball-cooldown_0
+  - first:
+      213: -9162955090962970460
+    second: hud-icon-fireball-cooldown_1
+  - first:
+      213: 4471570181707672885
+    second: hud-icon-fireball-cooldown_2
+  - first:
+      213: 8524818844760924666
+    second: hud-icon-fireball-cooldown_3
+  - first:
+      213: 596053644975109340
+    second: hud-icon-fireball-cooldown_4
+  - first:
+      213: -3998821365146017186
+    second: hud-icon-fireball-cooldown_5
+  - first:
+      213: 1823861748254199886
+    second: hud-icon-fireball-cooldown_6
+  - first:
+      213: -853331127555213485
+    second: hud-icon-fireball-cooldown_7
+  - first:
+      213: 6733003005775824146
+    second: hud-icon-fireball-cooldown_8
+  - first:
+      213: 319876459690028244
+    second: hud-icon-fireball-cooldown_9
+  - first:
+      213: 3695437684145287945
+    second: hud-icon-fireball-cooldown_10
+  - first:
+      213: 8390004903785483733
+    second: hud-icon-fireball-cooldown_11
+  - first:
+      213: -7273349798057784200
+    second: hud-icon-fireball-cooldown_12
+  - first:
+      213: 8467884622843776796
+    second: hud-icon-fireball-cooldown_13
+  - first:
+      213: 1656417113009449971
+    second: hud-icon-fireball-cooldown_14
+  - first:
+      213: -1404128835064185392
+    second: hud-icon-fireball-cooldown_15
+  - first:
+      213: -6562100322262249374
+    second: hud-icon-fireball-cooldown_16
+  - first:
+      213: 80141160994439886
+    second: hud-icon-fireball-cooldown_17
+  - first:
+      213: -5614666673507456519
+    second: hud-icon-fireball-cooldown_18
+  - first:
+      213: -439321226427939164
+    second: hud-icon-fireball-cooldown_19
+  - first:
+      213: 1609562421036933558
+    second: hud-icon-fireball-cooldown_20
+  - first:
+      213: -1214224381088624108
+    second: hud-icon-fireball-cooldown_21
+  - first:
+      213: 2125919333735971893
+    second: hud-icon-fireball-cooldown_22
+  - first:
+      213: 1836113956022928468
+    second: hud-icon-fireball-cooldown_23
+  - first:
+      213: -5646073086471987497
+    second: hud-icon-fireball-cooldown_24
+  - first:
+      213: 3216555786774352995
+    second: hud-icon-fireball-cooldown_25
+  - first:
+      213: 2176683832814967979
+    second: hud-icon-fireball-cooldown_26
+  - first:
+      213: 8337823145460337768
+    second: hud-icon-fireball-cooldown_27
+  - first:
+      213: 5578751902393372355
+    second: hud-icon-fireball-cooldown_28
+  - first:
+      213: 2171089347139354496
+    second: hud-icon-fireball-cooldown_29
+  - first:
+      213: -1174352546039349359
+    second: hud-icon-fireball-cooldown_30
+  - first:
+      213: 5805302713972991288
+    second: hud-icon-fireball-cooldown_31
+  - first:
+      213: 905992676467983624
+    second: hud-icon-fireball-cooldown_32
+  - first:
+      213: -5193901801809944368
+    second: hud-icon-fireball-cooldown_33
+  - first:
+      213: 5385025265850759976
+    second: hud-icon-fireball-cooldown_34
+  - first:
+      213: -4920515096732996421
+    second: hud-icon-fireball-cooldown_35
+  - first:
+      213: -3902363762927825684
+    second: hud-icon-fireball-cooldown_36
+  - first:
+      213: -467959696886617035
+    second: hud-icon-fireball-cooldown_37
+  - first:
+      213: -6601736174000631936
+    second: hud-icon-fireball-cooldown_38
+  - first:
+      213: -6535935798922409817
+    second: hud-icon-fireball-cooldown_39
+  - first:
+      213: 1869506421201031750
+    second: hud-icon-fireball-cooldown_40
+  - first:
+      213: 5028317554759979141
+    second: hud-icon-fireball-cooldown_41
+  - first:
+      213: -7480375159913064094
+    second: hud-icon-fireball-cooldown_42
+  - first:
+      213: 7130868214851434321
+    second: hud-icon-fireball-cooldown_43
+  - first:
+      213: -8026685942827591683
+    second: hud-icon-fireball-cooldown_44
+  - first:
+      213: 6855624517677428926
+    second: hud-icon-fireball-cooldown_45
+  - first:
+      213: 9008129645834300721
+    second: hud-icon-fireball-cooldown_46
+  - first:
+      213: -5820198435520348283
+    second: hud-icon-fireball-cooldown_47
+  - first:
+      213: -5679640034878164422
+    second: hud-icon-fireball-cooldown_48
+  - first:
+      213: -2507334873345239056
+    second: hud-icon-fireball-cooldown_49
+  - first:
+      213: 727607824529667255
+    second: hud-icon-fireball-cooldown_50
+  - first:
+      213: 7134133505293530631
+    second: hud-icon-fireball-cooldown_51
+  - first:
+      213: -6572671215291814341
+    second: hud-icon-fireball-cooldown_52
+  - first:
+      213: 4450907115093051190
+    second: hud-icon-fireball-cooldown_53
+  - first:
+      213: -7523752184121907591
+    second: hud-icon-fireball-cooldown_54
+  - first:
+      213: -4939676242159383721
+    second: hud-icon-fireball-cooldown_55
+  - first:
+      213: -5875702970521980748
+    second: hud-icon-fireball-cooldown_56
+  - first:
+      213: -4228374078628066103
+    second: hud-icon-fireball-cooldown_57
+  - first:
+      213: -2024669820035105500
+    second: hud-icon-fireball-cooldown_58
+  - first:
+      213: -608804937823693660
+    second: hud-icon-fireball-cooldown_59
+  - first:
+      213: 7855293588475084801
+    second: hud-icon-fireball-cooldown_60
+  - first:
+      213: 301763947369555935
+    second: hud-icon-fireball-cooldown_61
+  - first:
+      213: 6948969128988709200
+    second: hud-icon-fireball-cooldown_62
+  - first:
+      213: 3637600281292547029
+    second: hud-icon-fireball-cooldown_63
+  - first:
+      213: 6853095394614669360
+    second: hud-icon-fireball-cooldown_64
+  - first:
+      213: -1846399618311433621
+    second: hud-icon-fireball-cooldown_65
+  - first:
+      213: -4962672466060568014
+    second: hud-icon-fireball-cooldown_66
+  - first:
+      213: 4829487955738802101
+    second: hud-icon-fireball-cooldown_67
+  - first:
+      213: -67827203290918723
+    second: hud-icon-fireball-cooldown_68
+  - first:
+      213: -7961674094473684172
+    second: hud-icon-fireball-cooldown_69
+  - first:
+      213: 4401968634726763734
+    second: hud-icon-fireball-cooldown_70
+  - first:
+      213: -6770123397443942728
+    second: hud-icon-fireball-cooldown_71
+  - first:
+      213: -3257593901142202611
+    second: hud-icon-fireball-cooldown_72
+  - first:
+      213: -5835719693427990942
+    second: hud-icon-fireball-cooldown_73
+  - first:
+      213: 2589295864221426684
+    second: hud-icon-fireball-cooldown_74
+  - first:
+      213: 3529209562382170109
+    second: hud-icon-fireball-cooldown_75
+  - first:
+      213: -634538458737333983
+    second: hud-icon-fireball-cooldown_76
+  - first:
+      213: 2604076576174768156
+    second: hud-icon-fireball-cooldown_77
+  - first:
+      213: -1604322915722595868
+    second: hud-icon-fireball-cooldown_78
+  - first:
+      213: -8014987260610609492
+    second: hud-icon-fireball-cooldown_79
+  - first:
+      213: -8254543375206308111
+    second: hud-icon-fireball-cooldown_80
+  - first:
+      213: 5968760360874587663
+    second: hud-icon-fireball-cooldown_81
+  - first:
+      213: -3563693481098725342
+    second: hud-icon-fireball-cooldown_82
+  - first:
+      213: 8240033411165528947
+    second: hud-icon-fireball-cooldown_83
+  - first:
+      213: -3189794442109335337
+    second: hud-icon-fireball-cooldown_84
+  - first:
+      213: -4811046820763099337
+    second: hud-icon-fireball-cooldown_85
+  - first:
+      213: 7508813891708143608
+    second: hud-icon-fireball-cooldown_86
+  - first:
+      213: 5195374114569907305
+    second: hud-icon-fireball-cooldown_87
+  - first:
+      213: -1034251229237800171
+    second: hud-icon-fireball-cooldown_88
+  - first:
+      213: -160265178776480149
+    second: hud-icon-fireball-cooldown_89
+  - first:
+      213: 176098574731522998
+    second: hud-icon-fireball-cooldown_90
+  - first:
+      213: -2432853179252135950
+    second: hud-icon-fireball-cooldown_91
+  - first:
+      213: -6178964547735199456
+    second: hud-icon-fireball-cooldown_92
+  - first:
+      213: 1012748463193346114
+    second: hud-icon-fireball-cooldown_93
+  - first:
+      213: -8750473707010103142
+    second: hud-icon-fireball-cooldown_94
+  - first:
+      213: -5308298827437700300
+    second: hud-icon-fireball-cooldown_95
+  - first:
+      213: -5994785997034364660
+    second: hud-icon-fireball-cooldown_96
+  - first:
+      213: 7841339140552520994
+    second: hud-icon-fireball-cooldown_97
+  - first:
+      213: -421061401147418876
+    second: hud-icon-fireball-cooldown_98
+  - first:
+      213: 822574392218401751
+    second: hud-icon-fireball-cooldown_99
+  - first:
+      213: -5021458736058934045
+    second: hud-icon-fireball-cooldown_100
+  - first:
+      213: -573795874574528766
+    second: hud-icon-fireball-cooldown_101
+  - first:
+      213: 1033052777314564249
+    second: hud-icon-fireball-cooldown_102
+  - first:
+      213: -8591134313167627587
+    second: hud-icon-fireball-cooldown_103
+  - first:
+      213: 4391078365435565362
+    second: hud-icon-fireball-cooldown_104
+  - first:
+      213: 7390878359453527112
+    second: hud-icon-fireball-cooldown_105
+  - first:
+      213: 5360529964605158031
+    second: hud-icon-fireball-cooldown_106
+  - first:
+      213: -5285906543710223186
+    second: hud-icon-fireball-cooldown_107
+  - first:
+      213: 4501553503696327897
+    second: hud-icon-fireball-cooldown_108
+  - first:
+      213: -4199025288734771920
+    second: hud-icon-fireball-cooldown_109
+  - first:
+      213: 5744768578699134943
+    second: hud-icon-fireball-cooldown_110
+  - first:
+      213: 8065628359233476204
+    second: hud-icon-fireball-cooldown_111
+  - first:
+      213: -1183006138107646864
+    second: hud-icon-fireball-cooldown_112
+  - first:
+      213: 8895912596025459379
+    second: hud-icon-fireball-cooldown_113
+  - first:
+      213: 291625302930742580
+    second: hud-icon-fireball-cooldown_114
+  - first:
+      213: -6684203271919563663
+    second: hud-icon-fireball-cooldown_115
+  - first:
+      213: -6337914940593534893
+    second: hud-icon-fireball-cooldown_116
+  - first:
+      213: -145686052300267957
+    second: hud-icon-fireball-cooldown_117
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 108
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb370d84ac423a10800000000000000
+      internalID: 1887655463446068152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1212
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a88b4664e4a6d080800000000000000
+      internalID: -9162955090962970460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1205
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d2aec83653e0e30800000000000000
+      internalID: 4471570181707672885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1213
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e788a29d3e4670800000000000000
+      internalID: 8524818844760924666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1219
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd471dfc1ab954800800000000000000
+      internalID: 596053644975109340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_5
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1213
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52aa32b7255188c0800000000000000
+      internalID: -3998821365146017186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_6
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1214
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405d18c898af4910800000000000000
+      internalID: 1823861748254199886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1224
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b9425cdb5824f0800000000000000
+      internalID: -853331127555213485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_8
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1208
+        width: 108
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215c7ee8f8e607d50800000000000000
+      internalID: 6733003005775824146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 1207
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc65dff1fd607400800000000000000
+      internalID: 319876459690028244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1207
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90372159ef4d84330800000000000000
+      internalID: 3695437684145287945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_11
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1195
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd4be102094f6470800000000000000
+      internalID: 8390004903785483733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c4b9ff4eedf0b90800000000000000
+      internalID: -7273349798057784200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_13
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f889f1338f38570800000000000000
+      internalID: 8467884622843776796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6ec49696ccf610800000000000000
+      internalID: 1656417113009449971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1181
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddbd1f8348838ce0800000000000000
+      internalID: -1404128835064185392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_16
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260151f368cbee4a0800000000000000
+      internalID: -6562100322262249374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_17
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec206f816f7bc1100800000000000000
+      internalID: 80141160994439886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_18
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1078
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f92d518862b412b0800000000000000
+      internalID: -5614666673507456519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1092
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a649741ca737e9f0800000000000000
+      internalID: -439321226427939164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_20
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1082
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b169bd7e70565610800000000000000
+      internalID: 1609562421036933558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_21
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1072
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412189fcb55362fe0800000000000000
+      internalID: -1214224381088624108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_22
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1068
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb774de58c08d10800000000000000
+      internalID: 2125919333735971893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1034
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45442e33aef2b7910800000000000000
+      internalID: 1836113956022928468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1040
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de91f8217e15a1b0800000000000000
+      internalID: -5646073086471987497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_25
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1035
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36499ee227083ac20800000000000000
+      internalID: 3216555786774352995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_26
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1036
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9543d962253e10800000000000000
+      internalID: 2176683832814967979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1011
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8131a9f5e5b370800000000000000
+      internalID: 8337823145460337768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_28
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 960
+        width: 114
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce01383c45bb6d40800000000000000
+      internalID: 5578751902393372355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_29
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1024
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f30ef1242412e10800000000000000
+      internalID: 2171089347139354496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_30
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1014
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fbf34d49cd3bfe0800000000000000
+      internalID: -1174352546039349359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_31
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 996
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835a8ff7f04909050800000000000000
+      internalID: 5805302713972991288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 974
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805caf10a8bb29c00800000000000000
+      internalID: 905992676467983624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 967
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06bd864dd8be7b0800000000000000
+      internalID: -5193901801809944368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_34
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 977
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb98db2f37bba40800000000000000
+      internalID: 5385025265850759976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_35
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 970
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc684be691d6bbb0800000000000000
+      internalID: -4920515096732996421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 953
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec845e45d408d9c0800000000000000
+      internalID: -3902363762927825684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 956
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cafd192297189f0800000000000000
+      internalID: -467959696886617035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_38
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 921
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f88df5debe164a0800000000000000
+      internalID: -6601736174000631936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 937
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8887e0501bb45a0800000000000000
+      internalID: -6535935798922409817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 932
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642dffc5f22d1f910800000000000000
+      internalID: 1869506421201031750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_41
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 935
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5805455cc2c28c540800000000000000
+      internalID: 5028317554759979141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_42
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 939
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269d9bebc6e503890800000000000000
+      internalID: -7480375159913064094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_43
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 938
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157f7564cdee5f260800000000000000
+      internalID: 7130868214851434321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_44
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 857
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7d32689ab7b9090800000000000000
+      internalID: -8026685942827591683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 911
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03f991d22142f50800000000000000
+      internalID: 6855624517677428926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 921
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d6e9e8f2e430d70800000000000000
+      internalID: 9008129645834300721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_47
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 915
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f76801c508a3fa0800000000000000
+      internalID: -5820198435520348283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 861
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32fff4fa7ddd21b0800000000000000
+      internalID: -5679640034878164422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_49
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 887
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7de459738243dd0800000000000000
+      internalID: -2507334873345239056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_50
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 907
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4b2ec167bf81a00800000000000000
+      internalID: 727607824529667255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_51
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 880
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706bb33ff98810360800000000000000
+      internalID: 7134133505293530631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_52
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 888
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ea81b6a5e29c4a0800000000000000
+      internalID: -6572671215291814341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 861
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6374163707cc4cd30800000000000000
+      internalID: 4450907115093051190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_54
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 863
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97628574043469790800000000000000
+      internalID: -7523752184121907591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 819
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b47a811aeb27bb0800000000000000
+      internalID: -4939676242159383721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_56
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 843
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b07454774f457ea0800000000000000
+      internalID: -5875702970521980748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 689
+        width: 33
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc87e9ad2cc155c0800000000000000
+      internalID: -4228374078628066103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 803
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d7a5d968de6e3e0800000000000000
+      internalID: -2024669820035105500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_59
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 817
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d38772271d87f0800000000000000
+      internalID: -608804937823693660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 819
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100067b46eb930d60800000000000000
+      internalID: 7855293588475084801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_61
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 819
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76bf816b4103400800000000000000
+      internalID: 301763947369555935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_62
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 819
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05117880b92bf6060800000000000000
+      internalID: 6948969128988709200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_63
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 810
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ad49de2a5b7230800000000000000
+      internalID: 3637600281292547029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_64
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 785
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0307fdfb3f51b1f50800000000000000
+      internalID: 6853095394614669360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62512d64554066e0800000000000000
+      internalID: -1846399618311433621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a19db7fab012bb0800000000000000
+      internalID: -4962672466060568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_67
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 787
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7b6d045b9c50340800000000000000
+      internalID: 4829487955738802101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 755
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db09cb994870f0ff0800000000000000
+      internalID: -67827203290918723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_69
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 774
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b57750893728190800000000000000
+      internalID: -7961674094473684172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_70
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 758
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dccc41962fe61d30800000000000000
+      internalID: 4401968634726763734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_71
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 760
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b60bc1c3a0bb02a0800000000000000
+      internalID: -6770123397443942728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 724
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a0fb3b93bac2d0800000000000000
+      internalID: -3257593901142202611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_73
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 755
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e19789bdb530fa0800000000000000
+      internalID: -5835719693427990942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_74
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 757
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf36e4daed60fe320800000000000000
+      internalID: 2589295864221426684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_75
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 744
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df773bff5654af030800000000000000
+      internalID: 3529209562382170109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_76
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 698
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12923aa32aaa137f0800000000000000
+      internalID: -634538458737333983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_77
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 697
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1000da59d9832420800000000000000
+      internalID: 2604076576174768156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 634
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1f557eecc4cb9e0800000000000000
+      internalID: -1604322915722595868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_79
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 662
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef50c3d8b05c090800000000000000
+      internalID: -8014987260610609492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f626c1e888f17d80800000000000000
+      internalID: -8254543375206308111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_81
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 503
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06bc53aceb45d250800000000000000
+      internalID: 5968760360874587663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 43
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2283cb209a73b8ec0800000000000000
+      internalID: -3563693481098725342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_83
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 435
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732fd9daba7a5270800000000000000
+      internalID: 8240033411165528947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_84
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 451
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ce8bead29bb3d0800000000000000
+      internalID: -3189794442109335337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_85
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 457
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f94a2186abb3db0800000000000000
+      internalID: -4811046820763099337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_86
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 413
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f748cb737aa43860800000000000000
+      internalID: 7508813891708143608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 401
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce23e1b3da91840800000000000000
+      internalID: 5195374114569907305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 339
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51315c89cf995a1f0800000000000000
+      internalID: -1034251229237800171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_89
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 310
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66d9254baf96cdf0800000000000000
+      internalID: -160265178776480149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_90
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3335088b0a17200800000000000000
+      internalID: 176098574731522998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_91
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 322
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72ffb5ce4cc3ed0800000000000000
+      internalID: -2432853179252135950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_92
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 312
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021e28c3b78ef3aa0800000000000000
+      internalID: -6178964547735199456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_93
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 278
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240567b8c510e0e00800000000000000
+      internalID: 1012748463193346114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_94
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 248
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9864458682109680800000000000000
+      internalID: -8750473707010103142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b04fc47522556b0800000000000000
+      internalID: -5308298827437700300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_96
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 248
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e74eb5ed3ecca0800000000000000
+      internalID: -5994785997034364660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_97
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 228
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225fff3376802dc60800000000000000
+      internalID: 7841339140552520994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_98
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 208
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407daf3f2e6182af0800000000000000
+      internalID: -421061401147418876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 176
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbb2813d0f5a6b00800000000000000
+      internalID: 822574392218401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_100
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 211
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecdce662e1305ab0800000000000000
+      internalID: -5021458736058934045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_101
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 192
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f866231b77908f0800000000000000
+      internalID: -573795874574528766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_102
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 172
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b0121704265e00800000000000000
+      internalID: 1033052777314564249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba59f52cd826c880800000000000000
+      internalID: -8591134313167627587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_104
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23590b8228e30fc30800000000000000
+      internalID: 4391078365435565362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_105
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 147
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c695995bca19660800000000000000
+      internalID: 7390878359453527112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82b02cf99d646a40800000000000000
+      internalID: 5360529964605158031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_107
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 93
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44d322100b4a6b0800000000000000
+      internalID: -5285906543710223186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_108
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 85
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41c35bf0bb87e30800000000000000
+      internalID: 4501553503696327897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_109
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 106
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035f41e4fb01ab5c0800000000000000
+      internalID: -4199025288734771920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 83
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd70032d59489bf40800000000000000
+      internalID: 5744768578699134943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_111
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c669d6a524edeef60800000000000000
+      internalID: 8065628359233476204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cacfa6f2e159fe0800000000000000
+      internalID: -1183006138107646864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_113
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 47
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2450f9f51a47b70800000000000000
+      internalID: 8895912596025459379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_114
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 55
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dd3bcfaaf0c0400800000000000000
+      internalID: 291625302930742580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_115
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 39
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0bb2e980fc33a0800000000000000
+      internalID: -6684203271919563663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_116
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 43
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580845f0f33b08a0800000000000000
+      internalID: -6337914940593534893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-fireball-cooldown_117
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 15
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed9ebae4b6afdf0800000000000000
+      internalID: -145686052300267957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hud-icon-fireball-cooldown_0: 1887655463446068152
+      hud-icon-fireball-cooldown_1: -9162955090962970460
+      hud-icon-fireball-cooldown_10: 3695437684145287945
+      hud-icon-fireball-cooldown_100: -5021458736058934045
+      hud-icon-fireball-cooldown_101: -573795874574528766
+      hud-icon-fireball-cooldown_102: 1033052777314564249
+      hud-icon-fireball-cooldown_103: -8591134313167627587
+      hud-icon-fireball-cooldown_104: 4391078365435565362
+      hud-icon-fireball-cooldown_105: 7390878359453527112
+      hud-icon-fireball-cooldown_106: 5360529964605158031
+      hud-icon-fireball-cooldown_107: -5285906543710223186
+      hud-icon-fireball-cooldown_108: 4501553503696327897
+      hud-icon-fireball-cooldown_109: -4199025288734771920
+      hud-icon-fireball-cooldown_11: 8390004903785483733
+      hud-icon-fireball-cooldown_110: 5744768578699134943
+      hud-icon-fireball-cooldown_111: 8065628359233476204
+      hud-icon-fireball-cooldown_112: -1183006138107646864
+      hud-icon-fireball-cooldown_113: 8895912596025459379
+      hud-icon-fireball-cooldown_114: 291625302930742580
+      hud-icon-fireball-cooldown_115: -6684203271919563663
+      hud-icon-fireball-cooldown_116: -6337914940593534893
+      hud-icon-fireball-cooldown_117: -145686052300267957
+      hud-icon-fireball-cooldown_12: -7273349798057784200
+      hud-icon-fireball-cooldown_13: 8467884622843776796
+      hud-icon-fireball-cooldown_14: 1656417113009449971
+      hud-icon-fireball-cooldown_15: -1404128835064185392
+      hud-icon-fireball-cooldown_16: -6562100322262249374
+      hud-icon-fireball-cooldown_17: 80141160994439886
+      hud-icon-fireball-cooldown_18: -5614666673507456519
+      hud-icon-fireball-cooldown_19: -439321226427939164
+      hud-icon-fireball-cooldown_2: 4471570181707672885
+      hud-icon-fireball-cooldown_20: 1609562421036933558
+      hud-icon-fireball-cooldown_21: -1214224381088624108
+      hud-icon-fireball-cooldown_22: 2125919333735971893
+      hud-icon-fireball-cooldown_23: 1836113956022928468
+      hud-icon-fireball-cooldown_24: -5646073086471987497
+      hud-icon-fireball-cooldown_25: 3216555786774352995
+      hud-icon-fireball-cooldown_26: 2176683832814967979
+      hud-icon-fireball-cooldown_27: 8337823145460337768
+      hud-icon-fireball-cooldown_28: 5578751902393372355
+      hud-icon-fireball-cooldown_29: 2171089347139354496
+      hud-icon-fireball-cooldown_3: 8524818844760924666
+      hud-icon-fireball-cooldown_30: -1174352546039349359
+      hud-icon-fireball-cooldown_31: 5805302713972991288
+      hud-icon-fireball-cooldown_32: 905992676467983624
+      hud-icon-fireball-cooldown_33: -5193901801809944368
+      hud-icon-fireball-cooldown_34: 5385025265850759976
+      hud-icon-fireball-cooldown_35: -4920515096732996421
+      hud-icon-fireball-cooldown_36: -3902363762927825684
+      hud-icon-fireball-cooldown_37: -467959696886617035
+      hud-icon-fireball-cooldown_38: -6601736174000631936
+      hud-icon-fireball-cooldown_39: -6535935798922409817
+      hud-icon-fireball-cooldown_4: 596053644975109340
+      hud-icon-fireball-cooldown_40: 1869506421201031750
+      hud-icon-fireball-cooldown_41: 5028317554759979141
+      hud-icon-fireball-cooldown_42: -7480375159913064094
+      hud-icon-fireball-cooldown_43: 7130868214851434321
+      hud-icon-fireball-cooldown_44: -8026685942827591683
+      hud-icon-fireball-cooldown_45: 6855624517677428926
+      hud-icon-fireball-cooldown_46: 9008129645834300721
+      hud-icon-fireball-cooldown_47: -5820198435520348283
+      hud-icon-fireball-cooldown_48: -5679640034878164422
+      hud-icon-fireball-cooldown_49: -2507334873345239056
+      hud-icon-fireball-cooldown_5: -3998821365146017186
+      hud-icon-fireball-cooldown_50: 727607824529667255
+      hud-icon-fireball-cooldown_51: 7134133505293530631
+      hud-icon-fireball-cooldown_52: -6572671215291814341
+      hud-icon-fireball-cooldown_53: 4450907115093051190
+      hud-icon-fireball-cooldown_54: -7523752184121907591
+      hud-icon-fireball-cooldown_55: -4939676242159383721
+      hud-icon-fireball-cooldown_56: -5875702970521980748
+      hud-icon-fireball-cooldown_57: -4228374078628066103
+      hud-icon-fireball-cooldown_58: -2024669820035105500
+      hud-icon-fireball-cooldown_59: -608804937823693660
+      hud-icon-fireball-cooldown_6: 1823861748254199886
+      hud-icon-fireball-cooldown_60: 7855293588475084801
+      hud-icon-fireball-cooldown_61: 301763947369555935
+      hud-icon-fireball-cooldown_62: 6948969128988709200
+      hud-icon-fireball-cooldown_63: 3637600281292547029
+      hud-icon-fireball-cooldown_64: 6853095394614669360
+      hud-icon-fireball-cooldown_65: -1846399618311433621
+      hud-icon-fireball-cooldown_66: -4962672466060568014
+      hud-icon-fireball-cooldown_67: 4829487955738802101
+      hud-icon-fireball-cooldown_68: -67827203290918723
+      hud-icon-fireball-cooldown_69: -7961674094473684172
+      hud-icon-fireball-cooldown_7: -853331127555213485
+      hud-icon-fireball-cooldown_70: 4401968634726763734
+      hud-icon-fireball-cooldown_71: -6770123397443942728
+      hud-icon-fireball-cooldown_72: -3257593901142202611
+      hud-icon-fireball-cooldown_73: -5835719693427990942
+      hud-icon-fireball-cooldown_74: 2589295864221426684
+      hud-icon-fireball-cooldown_75: 3529209562382170109
+      hud-icon-fireball-cooldown_76: -634538458737333983
+      hud-icon-fireball-cooldown_77: 2604076576174768156
+      hud-icon-fireball-cooldown_78: -1604322915722595868
+      hud-icon-fireball-cooldown_79: -8014987260610609492
+      hud-icon-fireball-cooldown_8: 6733003005775824146
+      hud-icon-fireball-cooldown_80: -8254543375206308111
+      hud-icon-fireball-cooldown_81: 5968760360874587663
+      hud-icon-fireball-cooldown_82: -3563693481098725342
+      hud-icon-fireball-cooldown_83: 8240033411165528947
+      hud-icon-fireball-cooldown_84: -3189794442109335337
+      hud-icon-fireball-cooldown_85: -4811046820763099337
+      hud-icon-fireball-cooldown_86: 7508813891708143608
+      hud-icon-fireball-cooldown_87: 5195374114569907305
+      hud-icon-fireball-cooldown_88: -1034251229237800171
+      hud-icon-fireball-cooldown_89: -160265178776480149
+      hud-icon-fireball-cooldown_9: 319876459690028244
+      hud-icon-fireball-cooldown_90: 176098574731522998
+      hud-icon-fireball-cooldown_91: -2432853179252135950
+      hud-icon-fireball-cooldown_92: -6178964547735199456
+      hud-icon-fireball-cooldown_93: 1012748463193346114
+      hud-icon-fireball-cooldown_94: -8750473707010103142
+      hud-icon-fireball-cooldown_95: -5308298827437700300
+      hud-icon-fireball-cooldown_96: -5994785997034364660
+      hud-icon-fireball-cooldown_97: 7841339140552520994
+      hud-icon-fireball-cooldown_98: -421061401147418876
+      hud-icon-fireball-cooldown_99: 822574392218401751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 2547c366512972f4e81f346b7a7deadc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3304281102395898183
+    second: hud-icon-danger-cloud_0
+  - first:
+      213: 233342682318982850
+    second: hud-icon-danger-cloud_1
+  - first:
+      213: -99040626242078507
+    second: hud-icon-danger-cloud_2
+  - first:
+      213: -826180081902381893
+    second: hud-icon-danger-cloud_3
+  - first:
+      213: 3831032411664999276
+    second: hud-icon-danger-cloud_4
+  - first:
+      213: -6021981165006830842
+    second: hud-icon-danger-cloud_5
+  - first:
+      213: -2570694468996421816
+    second: hud-icon-danger-cloud_6
+  - first:
+      213: 2292399335527160479
+    second: hud-icon-danger-cloud_7
+  - first:
+      213: 8079196656994506027
+    second: hud-icon-danger-cloud_8
+  - first:
+      213: 1599348632063899770
+    second: hud-icon-danger-cloud_9
+  - first:
+      213: 5342540499432822698
+    second: hud-icon-danger-cloud_10
+  - first:
+      213: 7172892912132780462
+    second: hud-icon-danger-cloud_11
+  - first:
+      213: -3591966322734934225
+    second: hud-icon-danger-cloud_12
+  - first:
+      213: -9146345825843766914
+    second: hud-icon-danger-cloud_13
+  - first:
+      213: -8412520600395949228
+    second: hud-icon-danger-cloud_14
+  - first:
+      213: 5852533618168545649
+    second: hud-icon-danger-cloud_15
+  - first:
+      213: 3082085378036271613
+    second: hud-icon-danger-cloud_16
+  - first:
+      213: 8129478031252926225
+    second: hud-icon-danger-cloud_17
+  - first:
+      213: -1495910035238742005
+    second: hud-icon-danger-cloud_18
+  - first:
+      213: 1676344942321283309
+    second: hud-icon-danger-cloud_19
+  - first:
+      213: -4822953755842811407
+    second: hud-icon-danger-cloud_20
+  - first:
+      213: -7020984293509226979
+    second: hud-icon-danger-cloud_21
+  - first:
+      213: 4821904453939246108
+    second: hud-icon-danger-cloud_22
+  - first:
+      213: -2572825920065592866
+    second: hud-icon-danger-cloud_23
+  - first:
+      213: 1435212426915428678
+    second: hud-icon-danger-cloud_24
+  - first:
+      213: -4163077628909892567
+    second: hud-icon-danger-cloud_25
+  - first:
+      213: 6814521014456338932
+    second: hud-icon-danger-cloud_26
+  - first:
+      213: -2052073839421426693
+    second: hud-icon-danger-cloud_27
+  - first:
+      213: -6382694875274862716
+    second: hud-icon-danger-cloud_28
+  - first:
+      213: -7658773653522803650
+    second: hud-icon-danger-cloud_29
+  - first:
+      213: 5306891423995941034
+    second: hud-icon-danger-cloud_30
+  - first:
+      213: -4646738876970326628
+    second: hud-icon-danger-cloud_31
+  - first:
+      213: -6370683025904747045
+    second: hud-icon-danger-cloud_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 1517
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749f752e72a2bdd20800000000000000
+      internalID: 3304281102395898183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_1
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 951
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce4f8aeeeffc3300800000000000000
+      internalID: 233342682318982850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 959
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8328e331320aef0800000000000000
+      internalID: -99040626242078507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_3
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 949
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb494b1c791d884f0800000000000000
+      internalID: -826180081902381893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_4
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 943
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ec444eaf8a2530800000000000000
+      internalID: 3831032411664999276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_5
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 937
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603cca74900ad6ca0800000000000000
+      internalID: -6021981165006830842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 923
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472865200f035cd0800000000000000
+      internalID: -2570694468996421816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 911
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a107dcc0d30df10800000000000000
+      internalID: 2292399335527160479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 535
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b255eaadd821f1070800000000000000
+      internalID: 8079196656994506027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 471
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78fc2e6b17023610800000000000000
+      internalID: 1599348632063899770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_10
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 251
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d4da3744842a40800000000000000
+      internalID: 5342540499432822698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 135
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17797991c3b8360800000000000000
+      internalID: 7172892912132780462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_12
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 147
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27d73819a5c62ec0800000000000000
+      internalID: -3591966322734934225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_13
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 149
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7994b94ee6a11180800000000000000
+      internalID: -9146345825843766914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 150
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b5ebbd519b04b80800000000000000
+      internalID: -8412520600395949228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 130
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c7f25150683150800000000000000
+      internalID: 5852533618168545649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_16
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 116
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9074d5254c5ca20800000000000000
+      internalID: 3082085378036271613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f2c269235b1d070800000000000000
+      internalID: 8129478031252926225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 99
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0817a5afb57d3be0800000000000000
+      internalID: -1495910035238742005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_19
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 88
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03518e7d2934710800000000000000
+      internalID: 1676344942321283309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_20
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 93
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f96ad6bc1d611db0800000000000000
+      internalID: -4822953755842811407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_21
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 101
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e19cbdbf3709e90800000000000000
+      internalID: -7020984293509226979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_22
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 95
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143ce5ad88dae240800000000000000
+      internalID: 4821904453939246108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 94
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1a295057c7b4cd0800000000000000
+      internalID: -2572825920065592866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_24
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 100
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64935832916eae310800000000000000
+      internalID: 1435212426915428678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_25
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 86
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c437414f6c936c0800000000000000
+      internalID: -4163077628909892567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_26
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 79
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9ca1df1ca029e50800000000000000
+      internalID: 6814521014456338932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_27
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3f96427b19583e0800000000000000
+      internalID: -2052073839421426693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 47
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1981f3dc1c67a0800000000000000
+      internalID: -6382694875274862716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_29
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 23
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3417a6a0f196b590800000000000000
+      internalID: -7658773653522803650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_30
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 29
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa058dc02add5a940800000000000000
+      internalID: 5306891423995941034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 48
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95af226c97738fb0800000000000000
+      internalID: -4646738876970326628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hud-icon-danger-cloud_32
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 23
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd36509a89c697a0800000000000000
+      internalID: -6370683025904747045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hud-icon-danger-cloud_0: 3304281102395898183
+      hud-icon-danger-cloud_1: 233342682318982850
+      hud-icon-danger-cloud_10: 5342540499432822698
+      hud-icon-danger-cloud_11: 7172892912132780462
+      hud-icon-danger-cloud_12: -3591966322734934225
+      hud-icon-danger-cloud_13: -9146345825843766914
+      hud-icon-danger-cloud_14: -8412520600395949228
+      hud-icon-danger-cloud_15: 5852533618168545649
+      hud-icon-danger-cloud_16: 3082085378036271613
+      hud-icon-danger-cloud_17: 8129478031252926225
+      hud-icon-danger-cloud_18: -1495910035238742005
+      hud-icon-danger-cloud_19: 1676344942321283309
+      hud-icon-danger-cloud_2: -99040626242078507
+      hud-icon-danger-cloud_20: -4822953755842811407
+      hud-icon-danger-cloud_21: -7020984293509226979
+      hud-icon-danger-cloud_22: 4821904453939246108
+      hud-icon-danger-cloud_23: -2572825920065592866
+      hud-icon-danger-cloud_24: 1435212426915428678
+      hud-icon-danger-cloud_25: -4163077628909892567
+      hud-icon-danger-cloud_26: 6814521014456338932
+      hud-icon-danger-cloud_27: -2052073839421426693
+      hud-icon-danger-cloud_28: -6382694875274862716
+      hud-icon-danger-cloud_29: -7658773653522803650
+      hud-icon-danger-cloud_3: -826180081902381893
+      hud-icon-danger-cloud_30: 5306891423995941034
+      hud-icon-danger-cloud_31: -4646738876970326628
+      hud-icon-danger-cloud_32: -6370683025904747045
+      hud-icon-danger-cloud_4: 3831032411664999276
+      hud-icon-danger-cloud_5: -6021981165006830842
+      hud-icon-danger-cloud_6: -2570694468996421816
+      hud-icon-danger-cloud_7: 2292399335527160479
+      hud-icon-danger-cloud_8: 8079196656994506027
+      hud-icon-danger-cloud_9: 1599348632063899770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

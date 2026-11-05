@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 469c654b2069df549bf1f1699d3181c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8245834474694375584
+    second: button-danger-red_0
+  - first:
+      213: 8455771498070116556
+    second: button-danger-red_1
+  - first:
+      213: -6196256749597943862
+    second: button-danger-red_2
+  - first:
+      213: -6884438305615720898
+    second: button-danger-red_3
+  - first:
+      213: -5119878855840428871
+    second: button-danger-red_4
+  - first:
+      213: 3866355577262445221
+    second: button-danger-red_5
+  - first:
+      213: 7435419714524377954
+    second: button-danger-red_6
+  - first:
+      213: 7512584067226847394
+    second: button-danger-red_7
+  - first:
+      213: -5052246327260897512
+    second: button-danger-red_8
+  - first:
+      213: -2211411380691184039
+    second: button-danger-red_9
+  - first:
+      213: -6305447549764623371
+    second: button-danger-red_10
+  - first:
+      213: -1130326665326774520
+    second: button-danger-red_11
+  - first:
+      213: 7119079337983098442
+    second: button-danger-red_12
+  - first:
+      213: 1506549548567993220
+    second: button-danger-red_13
+  - first:
+      213: 570576931290660693
+    second: button-danger-red_14
+  - first:
+      213: -9117391444452021160
+    second: button-danger-red_15
+  - first:
+      213: 7364908396393948674
+    second: button-danger-red_16
+  - first:
+      213: -5939372579374741775
+    second: button-danger-red_17
+  - first:
+      213: 1361383411802416621
+    second: button-danger-red_18
+  - first:
+      213: -6832056660815385886
+    second: button-danger-red_19
+  - first:
+      213: 4017285175266853457
+    second: button-danger-red_20
+  - first:
+      213: 5828106639454305489
+    second: button-danger-red_21
+  - first:
+      213: -3349685257783200624
+    second: button-danger-red_22
+  - first:
+      213: 2591280948907520268
+    second: button-danger-red_23
+  - first:
+      213: 5442183289356065158
+    second: button-danger-red_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 175, y: 225, z: 175, w: 225}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button-danger-red_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 23
+        width: 2134
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8f3d434c61f6270800000000000000
+      internalID: 8245834474694375584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 679
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8875c706fe85570800000000000000
+      internalID: 8455771498070116556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 673
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7191fb059720aa0800000000000000
+      internalID: -6196256749597943862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 661
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eceab16df8570a0800000000000000
+      internalID: -6884438305615720898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_4
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 642
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc09909e4982f8b0800000000000000
+      internalID: -5119878855840428871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_5
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 681
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21416a9ed08a530800000000000000
+      internalID: 3866355577262445221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 657
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2637928f5daef2760800000000000000
+      internalID: 7435419714524377954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 661
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8c050e76f024860800000000000000
+      internalID: 7512584067226847394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 659
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f97d9bbb0d2e9b0800000000000000
+      internalID: -5052246327260897512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_9
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 659
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95655a9d01d7f41e0800000000000000
+      internalID: -2211411380691184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 667
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f32c667cdc8e78a0800000000000000
+      internalID: -6305447549764623371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807bb09f2e54050f0800000000000000
+      internalID: -1130326665326774520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e3e4c70fc0cc260800000000000000
+      internalID: 7119079337983098442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_13
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 126
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b9be615d658e410800000000000000
+      internalID: 1506549548567993220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_14
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbc9a22b81be700800000000000000
+      internalID: 570576931290660693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_15
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 128
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c604b89c4887180800000000000000
+      internalID: -9117391444452021160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066a526a29653660800000000000000
+      internalID: 7364908396393948674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_17
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f64ca17b1c139da0800000000000000
+      internalID: -5939372579374741775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5a797000b94e210800000000000000
+      internalID: 1361383411802416621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_19
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 114
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eae1ce2aa8af21a0800000000000000
+      internalID: -6832056660815385886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_20
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 116
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1524939159340c730800000000000000
+      internalID: 4017285175266853457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_21
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 103
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcf4c52c1891e050800000000000000
+      internalID: 5828106639454305489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_22
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094387461078381d0800000000000000
+      internalID: -3349685257783200624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 39
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01bed83b4416f320800000000000000
+      internalID: 2591280948907520268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button-danger-red_24
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68992a42ed4868b40800000000000000
+      internalID: 5442183289356065158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      button-danger-red_0: 8245834474694375584
+      button-danger-red_1: 8455771498070116556
+      button-danger-red_10: -6305447549764623371
+      button-danger-red_11: -1130326665326774520
+      button-danger-red_12: 7119079337983098442
+      button-danger-red_13: 1506549548567993220
+      button-danger-red_14: 570576931290660693
+      button-danger-red_15: -9117391444452021160
+      button-danger-red_16: 7364908396393948674
+      button-danger-red_17: -5939372579374741775
+      button-danger-red_18: 1361383411802416621
+      button-danger-red_19: -6832056660815385886
+      button-danger-red_2: -6196256749597943862
+      button-danger-red_20: 4017285175266853457
+      button-danger-red_21: 5828106639454305489
+      button-danger-red_22: -3349685257783200624
+      button-danger-red_23: 2591280948907520268
+      button-danger-red_24: 5442183289356065158
+      button-danger-red_3: -6884438305615720898
+      button-danger-red_4: -5119878855840428871
+      button-danger-red_5: 3866355577262445221
+      button-danger-red_6: 7435419714524377954
+      button-danger-red_7: 7512584067226847394
+      button-danger-red_8: -5052246327260897512
+      button-danger-red_9: -2211411380691184039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

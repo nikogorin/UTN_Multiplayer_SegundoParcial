@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: 9b299fede5871734a8175465f2585806
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -568579715043671054
+    second: parallax-islands-mid_0
+  - first:
+      213: -1802734337606317423
+    second: parallax-islands-mid_1
+  - first:
+      213: -7429142406103782645
+    second: parallax-islands-mid_2
+  - first:
+      213: 3399563048815156769
+    second: parallax-islands-mid_3
+  - first:
+      213: -6536210231269045290
+    second: parallax-islands-mid_4
+  - first:
+      213: 6866908233729048461
+    second: parallax-islands-mid_5
+  - first:
+      213: 8307097446331058771
+    second: parallax-islands-mid_6
+  - first:
+      213: 4060255353379962359
+    second: parallax-islands-mid_7
+  - first:
+      213: 2397983602803286339
+    second: parallax-islands-mid_8
+  - first:
+      213: -9023624472387506012
+    second: parallax-islands-mid_9
+  - first:
+      213: 5920234838677897423
+    second: parallax-islands-mid_10
+  - first:
+      213: -1782573498688290911
+    second: parallax-islands-mid_11
+  - first:
+      213: 8438595160728230222
+    second: parallax-islands-mid_12
+  - first:
+      213: -6478404658624646529
+    second: parallax-islands-mid_13
+  - first:
+      213: -6173083065612075098
+    second: parallax-islands-mid_14
+  - first:
+      213: 2727191435616108850
+    second: parallax-islands-mid_15
+  - first:
+      213: -6800853504495904359
+    second: parallax-islands-mid_16
+  - first:
+      213: 4383103831962406586
+    second: parallax-islands-mid_17
+  - first:
+      213: -1354955259280826871
+    second: parallax-islands-mid_18
+  - first:
+      213: 3635409055206006591
+    second: parallax-islands-mid_19
+  - first:
+      213: 523277806237494188
+    second: parallax-islands-mid_20
+  - first:
+      213: 2085822364017961310
+    second: parallax-islands-mid_21
+  - first:
+      213: -9023501415914573219
+    second: parallax-islands-mid_22
+  - first:
+      213: -5304475132424730413
+    second: parallax-islands-mid_23
+  - first:
+      213: 8882640801038805928
+    second: parallax-islands-mid_24
+  - first:
+      213: 4875919973034090251
+    second: parallax-islands-mid_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parallax-islands-mid_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 540
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3445af2cffb18f0800000000000000
+      internalID: -568579715043671054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 652
+        width: 258
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8396dba66bf6e0800000000000000
+      internalID: -1802734337606317423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 580
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba46ac75266e890800000000000000
+      internalID: -7429142406103782645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 276
+        width: 317
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12edb2cc49cad2f20800000000000000
+      internalID: 3399563048815156769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_7
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 659
+        width: 187
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd37935bbce85830800000000000000
+      internalID: 4060255353379962359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 392
+        width: 255
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49598ec699eb1570800000000000000
+      internalID: 8438595160728230222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_21
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 258
+        width: 180
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e592bdf836452fc10800000000000000
+      internalID: 2085822364017961310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 72
+        width: 152
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2f4d0fba754b70800000000000000
+      internalID: 8882640801038805928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parallax-islands-mid_25
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 107
+        width: 230
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fdde9b16fbaa340800000000000000
+      internalID: 4875919973034090251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      parallax-islands-mid_0: -568579715043671054
+      parallax-islands-mid_1: -1802734337606317423
+      parallax-islands-mid_10: 5920234838677897423
+      parallax-islands-mid_11: -1782573498688290911
+      parallax-islands-mid_12: 8438595160728230222
+      parallax-islands-mid_13: -6478404658624646529
+      parallax-islands-mid_14: -6173083065612075098
+      parallax-islands-mid_15: 2727191435616108850
+      parallax-islands-mid_16: -6800853504495904359
+      parallax-islands-mid_17: 4383103831962406586
+      parallax-islands-mid_18: -1354955259280826871
+      parallax-islands-mid_19: 3635409055206006591
+      parallax-islands-mid_2: -7429142406103782645
+      parallax-islands-mid_20: 523277806237494188
+      parallax-islands-mid_21: 2085822364017961310
+      parallax-islands-mid_22: -9023501415914573219
+      parallax-islands-mid_23: -5304475132424730413
+      parallax-islands-mid_24: 8882640801038805928
+      parallax-islands-mid_25: 4875919973034090251
+      parallax-islands-mid_3: 3399563048815156769
+      parallax-islands-mid_4: -6536210231269045290
+      parallax-islands-mid_5: 6866908233729048461
+      parallax-islands-mid_6: 8307097446331058771
+      parallax-islands-mid_7: 4060255353379962359
+      parallax-islands-mid_8: 2397983602803286339
+      parallax-islands-mid_9: -9023624472387506012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

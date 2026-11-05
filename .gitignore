@@ -1,0 +1,27 @@
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# Unity Version Control
+.plastic/
+plastic.workspace
+ignore.conf

@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: bfbae48ce86bc1a4fa2375df1279e96f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6554401388985009695
+    second: panel-waiting-body_0
+  - first:
+      213: 7446168041005284018
+    second: panel-waiting-body_1
+  - first:
+      213: 3184871019908074845
+    second: panel-waiting-body_2
+  - first:
+      213: 5537333811254367098
+    second: panel-waiting-body_3
+  - first:
+      213: 8593173509736662210
+    second: panel-waiting-body_4
+  - first:
+      213: 2818114830262017094
+    second: panel-waiting-body_5
+  - first:
+      213: -3945268246275586400
+    second: panel-waiting-body_6
+  - first:
+      213: -5262011351399189267
+    second: panel-waiting-body_7
+  - first:
+      213: -2050427212864353326
+    second: panel-waiting-body_8
+  - first:
+      213: -6126411185994221384
+    second: panel-waiting-body_9
+  - first:
+      213: 779049156944333453
+    second: panel-waiting-body_10
+  - first:
+      213: -8498912820468231029
+    second: panel-waiting-body_11
+  - first:
+      213: -4692847870939674904
+    second: panel-waiting-body_12
+  - first:
+      213: -7731153496417038506
+    second: panel-waiting-body_13
+  - first:
+      213: 7235997939957944535
+    second: panel-waiting-body_14
+  - first:
+      213: 889637975413899249
+    second: panel-waiting-body_15
+  - first:
+      213: -8522858782865696276
+    second: panel-waiting-body_16
+  - first:
+      213: -3029339567638180447
+    second: panel-waiting-body_17
+  - first:
+      213: 8815177554160732098
+    second: panel-waiting-body_18
+  - first:
+      213: 7865800340690378100
+    second: panel-waiting-body_19
+  - first:
+      213: 8117831885314937456
+    second: panel-waiting-body_20
+  - first:
+      213: 5023696726723462133
+    second: panel-waiting-body_21
+  - first:
+      213: 5132813246104612855
+    second: panel-waiting-body_22
+  - first:
+      213: -6002416845277338256
+    second: panel-waiting-body_23
+  - first:
+      213: -5822964112236316615
+    second: panel-waiting-body_24
+  - first:
+      213: -79539514783523600
+    second: panel-waiting-body_25
+  - first:
+      213: 8067479044070954766
+    second: panel-waiting-body_26
+  - first:
+      213: 2164593225461687678
+    second: panel-waiting-body_27
+  - first:
+      213: -993065455828188741
+    second: panel-waiting-body_28
+  - first:
+      213: 5339904551936631872
+    second: panel-waiting-body_29
+  - first:
+      213: -2377208184471922045
+    second: panel-waiting-body_30
+  - first:
+      213: -1392506846759965112
+    second: panel-waiting-body_31
+  - first:
+      213: 2588151715410515506
+    second: panel-waiting-body_32
+  - first:
+      213: 343147492191700431
+    second: panel-waiting-body_33
+  - first:
+      213: -3904489287635824403
+    second: panel-waiting-body_34
+  - first:
+      213: -8180143470541883352
+    second: panel-waiting-body_35
+  - first:
+      213: -4641438411715000025
+    second: panel-waiting-body_36
+  - first:
+      213: -5413228305551021863
+    second: panel-waiting-body_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel-waiting-body_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 1845
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1647c92659e5fa50800000000000000
+      internalID: 6554401388985009695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 789
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba7cfdb16a165760800000000000000
+      internalID: 7446168041005284018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 789
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d8e05815fe23c20800000000000000
+      internalID: 3184871019908074845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 789
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73939663cf88dc40800000000000000
+      internalID: 5537333811254367098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 797
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4862d47c5114770800000000000000
+      internalID: 8593173509736662210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 756
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c1702d184fb1720800000000000000
+      internalID: 2818114830262017094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_6
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 781
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68d15de679f39c0800000000000000
+      internalID: -3945268246275586400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_7
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 781
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de437c32e8499f6b0800000000000000
+      internalID: -5262011351399189267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_8
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 781
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db0d63405b6b83e0800000000000000
+      internalID: -2050427212864353326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 779
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8b5d64c7d9afaa0800000000000000
+      internalID: -6126411185994221384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 748
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a0c36a41dbfca00800000000000000
+      internalID: 779049156944333453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 154
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b845af6a1dbcd0a80800000000000000
+      internalID: -8498912820468231029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 127
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e641b3a9b7afdeb0800000000000000
+      internalID: -4692847870939674904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0b0e3bdc65b490800000000000000
+      internalID: -7731153496417038506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 113
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0d6a6d9cd6b6460800000000000000
+      internalID: 7235997939957944535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_15
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 113
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff3e3f6601a85c00800000000000000
+      internalID: 889637975413899249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_16
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 119
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d870d719b8b980800000000000000
+      internalID: -8522858782865696276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_17
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 129
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad04ee96bf95f5d0800000000000000
+      internalID: -3029339567638180447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_18
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 115
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c74fbbd74dc55a70800000000000000
+      internalID: 8815177554160732098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d1ffc2cbfe82d60800000000000000
+      internalID: 7865800340690378100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_20
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 116
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072598ee61558a070800000000000000
+      internalID: 8117831885314937456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 113
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f305a76e81c7b540800000000000000
+      internalID: 5023696726723462133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 113
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff2c78d37a6b3740800000000000000
+      internalID: 5132813246104612855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0756c6f6ea123bca0800000000000000
+      internalID: -6002416845277338256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_24
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9387e46cdfca03fa0800000000000000
+      internalID: -5822964112236316615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_25
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 115
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc98b39b3b65eef0800000000000000
+      internalID: -79539514783523600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_26
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 115
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d1ce727175ff60800000000000000
+      internalID: 8067479044070954766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_27
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 111
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e756cdee11e2a0e10800000000000000
+      internalID: 2164593225461687678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_28
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 113
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb146aaba3ce732f0800000000000000
+      internalID: -993065455828188741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_29
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 113
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044aca0e5e62b1a40800000000000000
+      internalID: 5339904551936631872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_30
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 97
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a566f40c5720fd0800000000000000
+      internalID: -2377208184471922045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_31
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ea2939662dcace0800000000000000
+      internalID: -1392506846759965112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369cd5c546fae320800000000000000
+      internalID: 2588151715410515506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_33
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 64
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc507a973da13c400800000000000000
+      internalID: 343147492191700431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 72
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de016250ea770d9c0800000000000000
+      internalID: -3904489287635824403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 50
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828be929ada4a7e80800000000000000
+      internalID: -8180143470541883352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_36
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729cfde1b5c469fb0800000000000000
+      internalID: -4641438411715000025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel-waiting-body_37
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 54
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8aa8f598950e4b0800000000000000
+      internalID: -5413228305551021863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel-waiting-body_0: 6554401388985009695
+      panel-waiting-body_1: 7446168041005284018
+      panel-waiting-body_10: 779049156944333453
+      panel-waiting-body_11: -8498912820468231029
+      panel-waiting-body_12: -4692847870939674904
+      panel-waiting-body_13: -7731153496417038506
+      panel-waiting-body_14: 7235997939957944535
+      panel-waiting-body_15: 889637975413899249
+      panel-waiting-body_16: -8522858782865696276
+      panel-waiting-body_17: -3029339567638180447
+      panel-waiting-body_18: 8815177554160732098
+      panel-waiting-body_19: 7865800340690378100
+      panel-waiting-body_2: 3184871019908074845
+      panel-waiting-body_20: 8117831885314937456
+      panel-waiting-body_21: 5023696726723462133
+      panel-waiting-body_22: 5132813246104612855
+      panel-waiting-body_23: -6002416845277338256
+      panel-waiting-body_24: -5822964112236316615
+      panel-waiting-body_25: -79539514783523600
+      panel-waiting-body_26: 8067479044070954766
+      panel-waiting-body_27: 2164593225461687678
+      panel-waiting-body_28: -993065455828188741
+      panel-waiting-body_29: 5339904551936631872
+      panel-waiting-body_3: 5537333811254367098
+      panel-waiting-body_30: -2377208184471922045
+      panel-waiting-body_31: -1392506846759965112
+      panel-waiting-body_32: 2588151715410515506
+      panel-waiting-body_33: 343147492191700431
+      panel-waiting-body_34: -3904489287635824403
+      panel-waiting-body_35: -8180143470541883352
+      panel-waiting-body_36: -4641438411715000025
+      panel-waiting-body_37: -5413228305551021863
+      panel-waiting-body_4: 8593173509736662210
+      panel-waiting-body_5: 2818114830262017094
+      panel-waiting-body_6: -3945268246275586400
+      panel-waiting-body_7: -5262011351399189267
+      panel-waiting-body_8: -2050427212864353326
+      panel-waiting-body_9: -6126411185994221384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
