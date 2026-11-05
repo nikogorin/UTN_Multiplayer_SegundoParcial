@@ -13158,7 +13158,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   ShowTopMostFoldoutHeaderGroup: 1
-  autoStartForTesting: 0
+  autoStartForTesting: 1
   testPlayerCount: 2
 --- !u!1 &1579794736
 GameObject:
